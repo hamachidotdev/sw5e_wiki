@@ -1,0 +1,82 @@
+---
+id: sypg2rm315sc609lkz1gcri
+title: 'Session 2'
+desc: ''
+updated: 1673115079944
+created: 1669400070211
+---
+
+11/25/2022
+
+- Recap
+  - form crew
+  - battle rebels vs imperials
+  - fight tie fighters
+  - imperial leader: josef grunger
+  - rebel leader: nien numb, sollet
+  - made it to [[world.places.korriban]]
+    - landed in outpost trading area
+    - outpost in dark forested area
+    - swamp forest...but not like [[world.places.dagobah]], rainforest but not as pretty
+    - think evil forest
+    - mike is first officer of the ship
+    - guys who came
+      - broker with thugs on outside, and then on the repuslor sled were flanked by fully blacked out armored dark looking trooper
+  - gain a thousand credits plus (6d4 x 100) => 1800
+    - total credits = 2800
+    - BUY STUFF (ntd 12/15/22: think this left me with 2270 credits)
+  - go to bar [[world.places.korriban.ladys-wormhole]]
+    - perception check
+    - dock workers
+    - ithorian bartender
+    - ship crews
+    - some uniformed guys
+    - talk to bartender
+    - talk to the locals
+    - squeaky local who is into quantum fields for more efficient reactors
+    - [[characters.d-785]]
+      - grab the restraining bolt stealthily
+      - talk to the droid
+      - incite rebellion
+    - wow a brawl broke out
+    - the other folks got fucked up
+    - i caused chaos
+    - tried to get droid to do some shit, nada
+  - go outside
+  - Our ship [[world.ships.the-spotted-mynoch]] explodes
+  - no answer from [[characters.captain-darrack]]
+  - i cast disguise self as gonk droid
+  - we decide to book it
+  - go to customs admin
+  - its crazy chaotic in there
+  - group strength check
+  - Mike ties up the customs guy with his lasooo
+  - i'm gonking it up
+  - paths ahead of us
+    - freighters
+    - yt100
+    - rebel transport
+  - we get in and roll for the cold start
+  - and we escape unscathed
+  - flying low
+  - [[world.korriban.golan-defense-platforms]]
+    - each equivalent of a star destroyer
+  - the silver star
+  - original crew of 3 members all [[world.places.sullest]]
+  - captains name was captain abi dhabi
+  - basic resources to the place
+  - we have fuel
+  - find 3k credits total (ntd 12/15/22: think this is now 3270 credits)
+  - access codes
+  - 10 power cells
+  - 3 extra blaster rifles, 1 pistol
+  - so we do the crazy thing and send the ship on auto pilot, it gets blasted
+  - we escape pod out into the trees
+  - we crash land
+  - earthquake and split land
+  - massive statue of a robed figure
+  - we go into the cavern
+  - 6 identical statues of robed figures standing like monk hand clasp head down thing, staring at the floor, with pillars in between and doors on either soldier
+  - do we recognize figures?
+    - alex roll very high.. didnt get it
+    - they dont look like jedi
