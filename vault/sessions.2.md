@@ -2,7 +2,7 @@
 id: sypg2rm315sc609lkz1gcri
 title: 'Session 2'
 desc: ''
-updated: 1673115079944
+updated: 1673202925451
 created: 1669400070211
 ---
 
@@ -59,7 +59,7 @@ created: 1669400070211
   - we get in and roll for the cold start
   - and we escape unscathed
   - flying low
-  - [[world.korriban.golan-defense-platforms]]
+  - [[world.places.korriban.golan-defense-platforms]]
     - each equivalent of a star destroyer
   - the silver star
   - original crew of 3 members all [[world.places.sullest]]

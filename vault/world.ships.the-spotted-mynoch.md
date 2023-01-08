@@ -2,7 +2,7 @@
 id: sr0e5sp9rnhsvgbt1x0keid
 title: The Spotted Mynoch
 desc: ''
-updated: 1673115212631
+updated: 1673203001415
 created: 1666884911429
 isDir: false
 ---
@@ -23,4 +23,4 @@ isDir: false
   - Wis:
   - Char:
 
-- Dang thing exploded right in front of us on [[world.korriban]] during session [[sessions.2]]
+- Dang thing exploded right in front of us on [[world.places.korriban.md]] during session [[sessions.2]]
