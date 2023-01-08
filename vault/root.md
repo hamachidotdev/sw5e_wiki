@@ -2,16 +2,22 @@
 id: wn8PE1RhG0znK1alrGFYv
 title: Home
 desc: ""
-updated: 1673200436541
+updated: 1673203462448
 created: 1631901573363
 ---
 
+![](/assets/images/2023-01-08-13-43-38.png)
+
 ## Welcome to the SW5E Wiki
 
-[Github Repo](https://github.com/newman174/sw5e_wiki)
+- [Home](https://newman174.github.io/sw5e_wiki/)
+- [Github](https://github.com/newman174/sw5e_wiki)
+- [Official Site](https://sw5e.com/)
 
-- [[characters.md]]
+## Contents
+
 - [[sessions.md]]
+- [[characters.md]]
 - [[world.md]]
   - [[world.places.md]]
   - [[world.factions.md]]
