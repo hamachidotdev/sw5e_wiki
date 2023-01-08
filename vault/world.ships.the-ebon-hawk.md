@@ -2,7 +2,7 @@
 id: kjj142dqaykucifvakz1kei
 title: The Ebon Hawk
 desc: ''
-updated: 1673203084880
+updated: 1673207071484
 created: 1673114402650
 ---
 
@@ -16,3 +16,4 @@ created: 1673114402650
 - Stat sheet
   - [web](https://github.com/newman174/sw5e_wiki/blob/656a6205d45a777c615610180c772f6e05dfe898/vault/assets/Ebon%20Hawk.pdf)
   - [local](./assets/Ebon%20Hawk.pdf)
+  - ![[vault/assets/Ebon%20Hawk.pdf]]

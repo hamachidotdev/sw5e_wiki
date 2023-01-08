@@ -2,7 +2,7 @@
 id: l7i71uy428a20cz8kic7ko4
 title: R3-D0
 desc: ''
-updated: 1671123086226
+updated: 1673208779276
 created: 1666884911426
 isDir: false
 ---
@@ -24,3 +24,15 @@ isDir: false
       - L1: [[calculating gunner|game-references.chapter-6-customization-options#calculating-gunner]]
     - Gambits:
   - [[game-references.operator]]
+
+- Engineering Discipline: [[game-references.classes.armormech-engineering.md]]
+  - [[Mods|game-references.classes.armormech-engineering#armormech-modifications]]
+
+- Abilitties
+  - ![[game-references.classes.engineer#potent-aptitude]]
+  - ![[game-references.classes.engineer#infuse-item]]
+  - ![[game-references.classes.armormech-engineering#damage-absorption]]
+  - ![[Resistance: Ion Damage|game-references.classes.armormech-engineering#resistance]]
+  - ![[Tech Blast|game-references.classes.armormech-engineering#tech-blast]]
+  - ![[Infiltration Suit|game-references.classes.armormech-engineering#infiltration-suit]]
+  - ![[Accelerated Movement|game-references.classes.armormech-engineering#accelerated-movement]]
