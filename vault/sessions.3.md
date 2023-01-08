@@ -2,13 +2,13 @@
 id: ixx97migyv6tua03m66ymb4
 title: 'Session 3'
 desc: ''
-updated: 1673114992780
+updated: 1673200532259
 created: 1671242648673
 ---
 
 12-16-2022
 
-- We're in a dimly lit chamber in a subterranean temple on [[world.korriban]]
+- We're in a dimly lit chamber in a subterranean temple on [[world.places.korriban.md]]
   - Six statues
   - Walkway in the middle, door on one end, dais on the other
     - (*Dais ex machina*)
@@ -22,7 +22,7 @@ created: 1671242648673
   - This place is a test to join their order
   - What's the order? [[world.factions.the-gray.md]]
   - What do you do? That's the correct answer
-  - Ghost: [["kur-bann"|world.places.korriban.md]] was not always inherently evil, nor its people...[toxic love britney]....
+  - Ghost: [["Kur-bann"|world.places.korriban.md]] (*sic*) was not always inherently evil, nor its people...[toxic love britney]....
   - [[world.objects.triangle-cube.md]] lights up on the dais
     - Ghost: The power runs low...take it places... if the correct questions and correct place speak again
 - [[Tarn|characters.tarnosian-snee.md]] investigates the walls... finds text
