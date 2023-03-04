@@ -1,0 +1,653 @@
+{
+  "roots": [
+    {
+      "key": "wn8PE1RhG0znK1alrGFYv",
+      "title": "Home",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "navExclude": false,
+      "children": [
+        {
+          "key": "a6lywyt55ekyo90nxi6sowf",
+          "title": "Characters",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "b8yr6252tdq6sttmd2qt8an",
+              "title": "Captain Darrack",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "k8qohdj5vtz2d3i3vhhurix",
+              "title": "D-785",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "l7i71uy428a20cz8kic7ko4",
+              "title": "R3-D0",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "o6qbtg9m31ti50aot8uzrbx",
+                  "title": "Bt1",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "8s9pnx8v297ffofvpsqhsva",
+              "title": "Tarnosian Snee",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "62abl5iak6r8e8lf01arvv1",
+              "title": "Zevid Tor",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "67nq8r06mptwrwq2iawcqzs",
+          "title": "Game References",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "q3knmtpd05t8wxe338w3iqt",
+              "title": "Classes",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "07srx92vdxn3cw5wpnq7708",
+                  "title": "Armormech Engineering",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "cyzbe71ketlsc27xbo2gbve",
+                  "title": "Backgrounds",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "1x661dwdfu5q9hxk5cetfi1",
+                  "title": "Engineer",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "45600r5dwtivo7pj8dqm1hz",
+              "title": "Gunner",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "yzovwqq62auqvckk9kpuuly",
+              "title": "Independent Droid",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "z117n6970oipr7kj16dhs8q",
+              "title": "Operator",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "zximqrw65ytdx3huy2wrwdq",
+              "title": "Players Handbook",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "qnd2xvhohy4phn848x6wxry",
+                  "title": "Chapter 1 Step by Step Starships",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "gmrwrsmy4wvb276tynlciw5",
+                  "title": "Introduction",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "20gk9xds3bhxl8t9g6o0djz",
+                  "title": "Species",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "fow4nz19yffh0fhl4spxaw3",
+                  "title": "Step by Step Characters",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "w4hac38ft8x2djmn4r9lx3l",
+                  "title": "Whats Different",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "0e5bccz1fjl45r8gaz5f86o",
+              "title": "Ships",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "j3g9m2wly7uy7pcti95q857",
+                  "title": "Hyperspace",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "bytuzuqxi7k83sch1ugw0fr",
+              "title": "Species",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "h931wkwz31wapvg3i6wtq7d",
+                  "title": "Class II Droid",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "1bv57y5n536dacgyyspm3k8",
+                  "title": "Droid Customizations",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "sc3gon7braax5bin0n6nybi",
+              "title": "Venture",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "q47io53e2mozudh6em7birq",
+          "title": "Sessions",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "v3nn3op0l2qvfcmcocpoyge",
+              "title": "Session 0",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "d4jm2pvt9gu9cmoc970gkfu",
+              "title": "Session 1",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "sypg2rm315sc609lkz1gcri",
+              "title": "Session 2",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "ixx97migyv6tua03m66ymb4",
+              "title": "Session 3",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "dk38go4odo0cx3qy9071gs4",
+              "title": "Session 4",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "wgv3ma9aji1ktnezcty7ibh",
+          "title": "World",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "derrvpq56cls6rq6lgwwmqk",
+              "title": "Factions",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "75mqrc2hec0dy8g1zw4amk6",
+                  "title": "Free States",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "htsb9e1zxahpi7foz3n9pq9",
+                  "title": "New Mandalore Republic",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "sbko2uhx4tnabfzbyq3h5w6",
+                  "title": "The Gray",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "3z55xkq2lkul0xnin8ol3sv",
+                  "title": "The Imperial Remnant",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "8rxeki03cifgrwa3gobhq2p",
+                  "title": "The New Republic",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "b2gqasv1je5gc74s5943ro4",
+              "title": "Objects",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "glp0c487nh9dy9ri28zgttt",
+                  "title": "Finger Bone",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "klbfd4fgx8g32etl8f3nbx7",
+                  "title": "Triangle Cube",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "ceya5kupp5te6tsbpbljina",
+              "title": "Places",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "7wzxfrkhvbccui9dkxzhkxb",
+                  "title": "Coruscant",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "8dh9l33vpkiow53fe11ov5x",
+                  "title": "Dagobah",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "hez66y01sf3uuhytq32j5wf",
+                  "title": "Hutt Space",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "r6652oiy1jnsrt3xkxz9avk",
+                  "title": "Jomark",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "ho7er0ctduoa0ims5jbd80c",
+                  "title": "Korriban",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": [
+                    {
+                      "key": "hrizjlcgtv4vnag9q7lc3eu",
+                      "title": "Golan Defense Platforms",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "vault",
+                      "navExclude": false,
+                      "children": []
+                    },
+                    {
+                      "key": "trm4akgwu5vyfxx4jdhwbdd",
+                      "title": "Lady's Wormhole",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "vault",
+                      "navExclude": false,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "key": "5zzlnvx1mufdfb5actcfo5b",
+                  "title": "Nar Hutta",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "vl11143jq9hf4fnjurd4w1t",
+                  "title": "Nar Shadda",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "e9lwz8womumjwm2ub5yp715",
+                  "title": "Sullest",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "ej84g3c18eufpvenjxzcs3c",
+                  "title": "The Dead Space",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "aujbuhcdd6jaoya76361tey",
+              "title": "Ships",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "av8mdg59fe4gvxac41hatau",
+                  "title": "The Defiant",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "kjj142dqaykucifvakz1kei",
+                  "title": "The Ebon Hawk",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "sr0e5sp9rnhsvgbt1x0keid",
+                  "title": "The Spotted Mynoch",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "ts24hjrj1qwswtiqq5wuss9",
+              "title": "Species",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "xk4vel3hanfo90uq0gqv7hu",
+                  "title": "Bothan",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "17ff86hab2lpff832qxlzpu",
+                  "title": "Duros",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "wn8PE1RhG0znK1alrGFYv": null,
+    "wgv3ma9aji1ktnezcty7ibh": "wn8PE1RhG0znK1alrGFYv",
+    "ts24hjrj1qwswtiqq5wuss9": "wgv3ma9aji1ktnezcty7ibh",
+    "17ff86hab2lpff832qxlzpu": "ts24hjrj1qwswtiqq5wuss9",
+    "xk4vel3hanfo90uq0gqv7hu": "ts24hjrj1qwswtiqq5wuss9",
+    "aujbuhcdd6jaoya76361tey": "wgv3ma9aji1ktnezcty7ibh",
+    "sr0e5sp9rnhsvgbt1x0keid": "aujbuhcdd6jaoya76361tey",
+    "kjj142dqaykucifvakz1kei": "aujbuhcdd6jaoya76361tey",
+    "av8mdg59fe4gvxac41hatau": "aujbuhcdd6jaoya76361tey",
+    "ceya5kupp5te6tsbpbljina": "wgv3ma9aji1ktnezcty7ibh",
+    "ej84g3c18eufpvenjxzcs3c": "ceya5kupp5te6tsbpbljina",
+    "e9lwz8womumjwm2ub5yp715": "ceya5kupp5te6tsbpbljina",
+    "vl11143jq9hf4fnjurd4w1t": "ceya5kupp5te6tsbpbljina",
+    "5zzlnvx1mufdfb5actcfo5b": "ceya5kupp5te6tsbpbljina",
+    "ho7er0ctduoa0ims5jbd80c": "ceya5kupp5te6tsbpbljina",
+    "trm4akgwu5vyfxx4jdhwbdd": "ho7er0ctduoa0ims5jbd80c",
+    "hrizjlcgtv4vnag9q7lc3eu": "ho7er0ctduoa0ims5jbd80c",
+    "r6652oiy1jnsrt3xkxz9avk": "ceya5kupp5te6tsbpbljina",
+    "hez66y01sf3uuhytq32j5wf": "ceya5kupp5te6tsbpbljina",
+    "8dh9l33vpkiow53fe11ov5x": "ceya5kupp5te6tsbpbljina",
+    "7wzxfrkhvbccui9dkxzhkxb": "ceya5kupp5te6tsbpbljina",
+    "b2gqasv1je5gc74s5943ro4": "wgv3ma9aji1ktnezcty7ibh",
+    "klbfd4fgx8g32etl8f3nbx7": "b2gqasv1je5gc74s5943ro4",
+    "glp0c487nh9dy9ri28zgttt": "b2gqasv1je5gc74s5943ro4",
+    "derrvpq56cls6rq6lgwwmqk": "wgv3ma9aji1ktnezcty7ibh",
+    "8rxeki03cifgrwa3gobhq2p": "derrvpq56cls6rq6lgwwmqk",
+    "3z55xkq2lkul0xnin8ol3sv": "derrvpq56cls6rq6lgwwmqk",
+    "sbko2uhx4tnabfzbyq3h5w6": "derrvpq56cls6rq6lgwwmqk",
+    "htsb9e1zxahpi7foz3n9pq9": "derrvpq56cls6rq6lgwwmqk",
+    "75mqrc2hec0dy8g1zw4amk6": "derrvpq56cls6rq6lgwwmqk",
+    "q47io53e2mozudh6em7birq": "wn8PE1RhG0znK1alrGFYv",
+    "dk38go4odo0cx3qy9071gs4": "q47io53e2mozudh6em7birq",
+    "ixx97migyv6tua03m66ymb4": "q47io53e2mozudh6em7birq",
+    "sypg2rm315sc609lkz1gcri": "q47io53e2mozudh6em7birq",
+    "d4jm2pvt9gu9cmoc970gkfu": "q47io53e2mozudh6em7birq",
+    "v3nn3op0l2qvfcmcocpoyge": "q47io53e2mozudh6em7birq",
+    "67nq8r06mptwrwq2iawcqzs": "wn8PE1RhG0znK1alrGFYv",
+    "bytuzuqxi7k83sch1ugw0fr": "67nq8r06mptwrwq2iawcqzs",
+    "1bv57y5n536dacgyyspm3k8": "bytuzuqxi7k83sch1ugw0fr",
+    "h931wkwz31wapvg3i6wtq7d": "bytuzuqxi7k83sch1ugw0fr",
+    "0e5bccz1fjl45r8gaz5f86o": "67nq8r06mptwrwq2iawcqzs",
+    "j3g9m2wly7uy7pcti95q857": "0e5bccz1fjl45r8gaz5f86o",
+    "zximqrw65ytdx3huy2wrwdq": "67nq8r06mptwrwq2iawcqzs",
+    "w4hac38ft8x2djmn4r9lx3l": "zximqrw65ytdx3huy2wrwdq",
+    "fow4nz19yffh0fhl4spxaw3": "zximqrw65ytdx3huy2wrwdq",
+    "20gk9xds3bhxl8t9g6o0djz": "zximqrw65ytdx3huy2wrwdq",
+    "gmrwrsmy4wvb276tynlciw5": "zximqrw65ytdx3huy2wrwdq",
+    "qnd2xvhohy4phn848x6wxry": "zximqrw65ytdx3huy2wrwdq",
+    "z117n6970oipr7kj16dhs8q": "67nq8r06mptwrwq2iawcqzs",
+    "yzovwqq62auqvckk9kpuuly": "67nq8r06mptwrwq2iawcqzs",
+    "45600r5dwtivo7pj8dqm1hz": "67nq8r06mptwrwq2iawcqzs",
+    "q3knmtpd05t8wxe338w3iqt": "67nq8r06mptwrwq2iawcqzs",
+    "1x661dwdfu5q9hxk5cetfi1": "q3knmtpd05t8wxe338w3iqt",
+    "cyzbe71ketlsc27xbo2gbve": "q3knmtpd05t8wxe338w3iqt",
+    "07srx92vdxn3cw5wpnq7708": "q3knmtpd05t8wxe338w3iqt",
+    "sc3gon7braax5bin0n6nybi": "67nq8r06mptwrwq2iawcqzs",
+    "a6lywyt55ekyo90nxi6sowf": "wn8PE1RhG0znK1alrGFYv",
+    "62abl5iak6r8e8lf01arvv1": "a6lywyt55ekyo90nxi6sowf",
+    "8s9pnx8v297ffofvpsqhsva": "a6lywyt55ekyo90nxi6sowf",
+    "l7i71uy428a20cz8kic7ko4": "a6lywyt55ekyo90nxi6sowf",
+    "o6qbtg9m31ti50aot8uzrbx": "l7i71uy428a20cz8kic7ko4",
+    "k8qohdj5vtz2d3i3vhhurix": "a6lywyt55ekyo90nxi6sowf",
+    "b8yr6252tdq6sttmd2qt8an": "a6lywyt55ekyo90nxi6sowf"
+  }
+}
