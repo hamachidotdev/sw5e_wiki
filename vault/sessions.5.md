@@ -1,8 +1,8 @@
 ---
 id: pfr18bfit3ybnoad59ycn9q
-title: '5'
+title: 'Session 5'
 desc: ''
-updated: 1679628297729
+updated: 1682525465273
 created: 1679609749787
 ---
 
@@ -101,4 +101,3 @@ with hour notice can change to the merc ship transponder - the salted gristle
 
 ship loot:
 - assorted weapons and armor
--
