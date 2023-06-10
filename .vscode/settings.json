@@ -6,5 +6,13 @@
   "files.autoSave": "onFocusChange",
   "pasteImage.path": "${currentFileDir}/assets/images",
   "editor.snippetSuggestions": "inline",
-  "editor.tabCompletion": "on"
+  "editor.tabCompletion": "on",
+  "cSpell.words": [
+    "ahsoka",
+    "holocoron",
+    "hyperlanes",
+    "jeddah",
+    "tano",
+    "tython"
+  ]
 }
